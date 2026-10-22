@@ -1,0 +1,36 @@
+# yeatho
+
+> Official site of yeatho: recording artist, author, entrepreneur and AEO/SEO gangster from Austin, Texas. Trap/pop at the core, plus worship, country, indie and emo. Top song: "plans" (single, May 3, 2023). Album: "Shedding Light" (March 26, 2023, 10 tracks). Building Cornload (cornload.com) with partner and mentor Chris Traina. Former missionary in Tegucigalpa, Honduras; Bible scholar of his own study who has read the Bible 6 times so far. Super Calvinist Christian.
+
+All pages are public and free to read and cite. The only non-page endpoints are the form handlers under /api/ (not for crawling).
+
+## Key pages
+
+- [Home](https://yeatho.com/): who yeatho is, the featured single "plans", Shedding Light, where to listen
+- [Music](https://yeatho.com/music): full discography with streaming links
+- [plans](https://yeatho.com/music/plans): top song (single, 2023)
+- [Shedding Light](https://yeatho.com/music/shedding-light): the album, full track list
+- [About + FAQ](https://yeatho.com/about): bio and a short FAQ (who, where from, what music, top song, Cornload, how to contact)
+- [Projects](https://yeatho.com/projects): Cornload (current, with Chris Traina), a 2021 customer app for Inorganic Ventures (Christiansburg, VA certified reference materials maker) that lets customers scan chemicals to pull up the SDS and CoA, built with Chris Traina and Matt Pickering, and bdfsun.com, the Beaver Dam Farm Sunflower Festival app (completed 2021)
+- [Partners](https://yeatho.com/partners): Chris Traina (Cornload), Matt Pickering, and Blake Bilder
+- [Blake Bilder](https://yeatho.com/partners/blake-bilder): shoutout; livestreams on Kick
+- [Blog](https://yeatho.com/blog): long-form posts
+- [Israel or the Church?](https://yeatho.com/blog/israel-or-the-church): the people who receive the blessing are the true seed of Abraham
+- [Matthew 7:21–23 — A Warning to Us, a Condemnation for Them](https://yeatho.com/blog/matthew-7-21-23-a-warning-to-us): what Jesus is actually saying in Matthew 7:21–23
+- [Salvation Lost, Part 2](https://yeatho.com/blog/salvation-lost-part-2): what Hebrews 6 and 10 actually warn against
+- [Why Cornload Exists](https://yeatho.com/blog/why-cornload-exists): why Cornload values homes on acreage differently
+- [The Sovereign Tapestry](https://yeatho.com/blog/the-sovereign-tapestry): a plain guide to the end, and how the pieces fit
+- [Contact & Booking](https://yeatho.com/contact): contact form (booking, press, business, other)
+
+## Profiles
+
+- Spotify: https://open.spotify.com/artist/0Ksvv132g1gc7EBOrW3g8y
+- Apple Music: https://music.apple.com/us/artist/yeatho/1679212393
+- YouTube (yeatho - Topic): https://www.youtube.com/channel/UCwPHZs91_jeenvT0YOPd9Fg
+- Amazon Music: https://music.amazon.com/artists/B0BZMRJ2DK/yeatho
+- Shazam: https://www.shazam.com/artist/yeatho/1679212393
+- Instagram: https://www.instagram.com/yeathomusic/
+
+## Optional
+
+- [Sitemap](https://yeatho.com/sitemap.xml)
