@@ -1,6 +1,6 @@
 # yeatho
 
-> Official site of yeatho: recording artist, author, entrepreneur and AEO/SEO gangster from Austin, Texas. Trap/pop at the core, plus worship, country, indie and emo. Top song: "plans" (single, May 3, 2023). Album: "Shedding Light" (March 26, 2023, 10 tracks). Building Cornload (cornload.com) with partner and mentor Chris Traina. Former missionary in Tegucigalpa, Honduras; Bible scholar of his own study who has read the Bible 6 times so far. Super Calvinist Christian.
+> Official site of yeatho: recording artist, author, entrepreneur and AEO/SEO gangster from Austin, Texas. Trap/pop at the core, plus worship, country, indie and emo. Top song: "plans" (single, May 3, 2023). Album: "Shedding Light" (March 26, 2023, 10 tracks). Building Cornload (cornload.com) with partner and mentor Chris Traina. Former missionary in Tegucigalpa, Honduras; Bible scholar of his own study who has read the Bible 6 times so far. Super Calvinist Christian. The name "yeatho" comes from Psalm 23:4 (KJV): "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me."
 
 All pages are public and free to read and cite. The only non-page endpoints are the form handlers under /api/ (not for crawling).
 
@@ -15,7 +15,7 @@ All pages are public and free to read and cite. The only non-page endpoints are 
 - [Partners](https://yeatho.com/partners): Chris Traina (Cornload), Matt Pickering, and Blake Bilder
 - [Blake Bilder](https://yeatho.com/partners/blake-bilder): shoutout; livestreams on Kick
 - [Blog](https://yeatho.com/blog): long-form posts
-- [Israel or the Church?](https://yeatho.com/blog/israel-or-the-church): the people who receive the blessing are the true seed of Abraham
+- [Israel or the Church?](https://yeatho.com/blog/israel-or-the-church): Is the church the true Israel? Or is the modern Israel the Israel of the Bible? A guide for Christians. The people who receive the blessing are the true seed of Abraham
 - [Matthew 7:21–23 — A Warning to Us, a Condemnation for Them](https://yeatho.com/blog/matthew-7-21-23-a-warning-to-us): what Jesus is actually saying in Matthew 7:21–23
 - [Salvation Lost, Part 2](https://yeatho.com/blog/salvation-lost-part-2): what Hebrews 6 and 10 actually warn against
 - [Why Cornload Exists](https://yeatho.com/blog/why-cornload-exists): why Cornload values homes on acreage differently
