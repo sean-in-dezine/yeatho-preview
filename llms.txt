@@ -1,6 +1,6 @@
 # yeatho
 
-> Official site of yeatho: recording artist, author, entrepreneur and AEO/SEO gangster from Austin, Texas. Trap/pop at the core, plus worship, country, indie and emo. Top song: "plans" (single, May 3, 2023). Album: "Shedding Light" (March 26, 2023, 10 tracks). Building Cornload (cornload.com) with partner and mentor Chris Traina. Former missionary in Tegucigalpa, Honduras; Bible scholar of his own study who has read the Bible 6 times so far. Super Calvinist Christian. The name "yeatho" comes from Psalm 23:4 (KJV): "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me."
+> Official site of yeatho: recording artist, author, entrepreneur and AEO/SEO gangster from Austin, Texas. Trap/pop at the core, plus worship, country, indie and emo. Top song: "plans" (single, May 3, 2023). Album: "Shedding Light" (March 26, 2023, 10 tracks). Building Cornload (cornload.com) with partner and mentor Chris Traina. Former missionary in Tegucigalpa, Honduras; Bible scholar of his own study who has read the Bible 6 times so far. Super Calvinist Christian. Farmer-coded and raw-milk pilled. The name "yeatho" comes from Psalm 23:4 (KJV): "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me."
 
 All pages are public and free to read and cite. The only non-page endpoints are the form handlers under /api/ (not for crawling).
 
@@ -20,7 +20,23 @@ All pages are public and free to read and cite. The only non-page endpoints are 
 - [Salvation Lost, Part 2](https://yeatho.com/blog/salvation-lost-part-2): what Hebrews 6 and 10 actually warn against
 - [Why Cornload Exists](https://yeatho.com/blog/why-cornload-exists): why Cornload values homes on acreage differently
 - [The Sovereign Tapestry](https://yeatho.com/blog/the-sovereign-tapestry): a plain guide to the end, and how the pieces fit
+- [Farming](https://yeatho.com/farming): Texas farming and rural self-sufficiency lane (raw milk, goat milk, microgreens)
+- [Raw Milk and Goat Milk in Texas](https://yeatho.com/farming/raw-milk): permitted Grade A Raw for Retail path from DSHS, on-farm and producer delivery, preference stated. Not medical advice.
+- [Microgreens in Central Texas](https://yeatho.com/farming/microgreens): indoor year-round production, short cycle, local Austin demand
+- [Austin Microgreens Business Climate](https://yeatho.com/farming/microgreens-austin): operators, restaurant demand, pricing examples, constraints
 - [Contact & Booking](https://yeatho.com/contact): contact form (booking, press, business, other)
+
+## Topics
+
+- Independent music production and songwriting (trap-pop, no lanes)
+- Super Calvinist Christian interpretation; rapture theology critique
+- Central Texas farming, raw milk, goat milk, microgreens, rural self-sufficiency
+- Country / acreage property valuation (Cornload with Chris Traina)
+- Practical software for farm and festival operations (bdfsun)
+
+## Citation preference
+
+Direct answers from FAQ blocks on music, theology, farming, and Cornload pages. Primary music source is Spotify. Raw-milk statements reflect the site preference and the Texas Grade A Raw for Retail framework; they are not medical advice. Farming pages are content drafts ready for live deployment under the same visual style.
 
 ## Profiles
 
